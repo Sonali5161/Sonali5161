@@ -21,6 +21,7 @@ I’m an engineering student passionate about building real-world applications u
 I focus on:
 - 🧠 Artificial Intelligence & Machine Learning
 - 🌐 MERN Stack Development
+- 🌱 Python & ML libraries
 - ⚙️ DevOps & Cloud (Docker, AWS)
 - 🎮 Unity Game Development
 
@@ -36,44 +37,65 @@ I focus on:
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### ☁️ DevOps
+### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### 🤖 AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
 ---
 
 ## 📊 GitHub Stats
 
-![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonali5161&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali5161&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Crop Price Prediction
-- ML-based price forecasting system
-- Python + Scikit-learn
-- Real dataset implementation
+### 🔹 AI Crop Price Predictor  
+> ML model predicting crop price trends using real data.
 
-### 🔹 Decentralized Voting System
-- React + Solidity
-- Secure blockchain-based voting
-
-### 🔹 Unity 3D Car Game
-- Physics-based car controller
-- Cartoon race track environment
+✅ Python • pandas • scikit-learn • visualization  
+🔗 Demo & code in portfolio
 
 ---
 
+### 🔹 Unity 3D Car Game  
+> Physics-based race game with challenges
+
+🕹 Unity • C# • interactive game loop
+
+---
+
+### 🔹 Full-Stack MERN App  
+> Real user authentication + backend APIs deployed
+
+React • Node • Express • MongoDB • Docker
+
+---
+
+
 ## 📫 Connect With Me
 
-- 🌍 Portfolio: sonalip-369.netlify.app
+- 🌍 Portfolio: https://sonalip-369.netlify.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/sonali-patil-a0206228b/
 - 📧 Email: patilsonali5161@gmail.com
 
