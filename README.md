@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sonali Patil</h1>
-<h3 align="center">AI/ML Engineer • Data Science • DevOps Explorer</h3>
+<h1 align="center">Sonali Patil</h1>
+
+<h3 align="center">
+AI/ML Engineer • Full-Stack Developer • DevOps-Oriented • Production-Focused
+</h3>
+
+<p align="center">
+I build, train, deploy, and maintain real-world intelligent applications.<br>
+Focused on scalable systems, clean architecture, and reliable deployments.
+</p>
+
+---
+
 
 ---
 
