@@ -55,13 +55,6 @@ I focus on:
 ---
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonali5161&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali5161&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 AI Crop Price Predictor  
