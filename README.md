@@ -10,7 +10,13 @@ Focused on scalable systems, clean architecture, and reliable deployments.
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonali5161&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali5161&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -100,3 +106,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![snake gif](https://github.com/Sonali5161/Sonali5161/blob/output/github-contribution-grid-snake.svg)
